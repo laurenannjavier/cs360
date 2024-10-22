@@ -1,1 +1,20 @@
 # cs360
+
+Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+The app I developed is a weight-tracking application designed to help users log and monitor their weight over time. The primary goal was to create a simple, user-friendly interface that allows users to easily input their weight data and track progress. The app also needed to display the information visually so users could see trends and patterns. The main user need it addressed was the ability to keep track of weight changes for fitness, health, or personal goals, and to have a quick and efficient way to log and view progress.
+
+What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
+The app included key screens such as a login screen, a weight input screen, a data display screen, and a settings page. The weight input screen allowed users to quickly log their weight, while the display screen provided a clear visualization of their weight trends over time. I kept users in mind by making sure that the app was intuitive and easy to navigate, using clear buttons and lessening the number of steps required to input or access data. The design was successful because it focused on simplicity, making it easy for users to log information and track their progress without unnecessary distractions or complexity.
+
+How did you approach the process of coding your app? What techniques or strategies did you use? How could those techniques or strategies be applied in the future?
+I approached coding the app by first breaking the functionality into smaller tasks, such as user authentication, data input, and chart visualization. I used these features step by step, making sure that each part worked before moving on to the next. I used object-oriented programming principles to keep the code organized and modular, making it easier to maintain and update. This strategy of step development and testing can be applied in the future to larger projects to keep them manageable and lessen debugging time.
+
+How did you test to ensure your code was functional? Why is this process important, and what did it reveal?
+I tested the app continuously by running each feature after implementing it, focusing on edge cases such as incorrect inputs or invalid login attempts. I also conducted user testing to ensure the app’s usability and to verify that users could easily navigate and input data without confusion. This process is crucial because it helps identify bugs and usability issues early on, allowing for quick fixes. It revealed areas where the app could be improved in terms of error handling and user feedback.
+
+Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
+One challenge I faced was ensuring that the app remained simple while still providing enough functionality to meet user needs. For example, designing a chart that displayed weight trends in a visually appealing and clear way was a challenge. I had to innovate by using a library to create the chart and adjusting its style and functionality to fit seamlessly with the rest of the app. This required researching different options and customizing the code to ensure the chart was user-friendly and integrated well with the app's design.
+
+In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+I was particularly successful in demonstrating my skills in UI design and data visualization. Creating a clear, user-friendly interface that effectively displayed the weight-tracking data required a good understanding of design principles, as well as technical knowledge of how to implement charts and graphs in an app. The result was a smooth and intuitive user experience that provided users with the information they needed in a visually appealing format.
+
